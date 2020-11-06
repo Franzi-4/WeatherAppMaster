@@ -23,7 +23,7 @@ return (
                 alt="humidity icon"
                 id="weather-icons"
               />
-              Humidity:<br />
+              Humidity <span role="img">💦</span> <br />
               {props.data.humidity}%
               <div id="humidity"></div>
             </div>
@@ -40,8 +40,8 @@ return (
                 alt="wind icon"
                 id="weather-icons"
               />
-              Wind:<br />
-              {props.data.wind}km/h
+              Wind <span role="img">🌬</span><br />
+              {props.data.wind}km/
               <div id="wind"></div>
             </div>
           </div>
