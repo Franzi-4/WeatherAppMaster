@@ -54,7 +54,7 @@ a {
 }
 .weatherApp {
   margin: 15px auto 10px auto;
-  background-image: linear-gradient(to bottom, #abe9ff 25%, #85ccff 95%);
+  background-image: linear-gradient(to bottom, #fff1eb 25%, 95%);
   padding: 18px;
   height: 629px;
   border: 0.5px solid #aeb2b8;
